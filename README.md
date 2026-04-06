@@ -26,6 +26,8 @@ This project demonstrates core concepts like Java Networking, I/O Streams, and C
 ---
 
 ## 📂 Project Structure
+
+```
 Java-Chat-Messenger-With-Log-Facility
 │
 ├── src
@@ -41,6 +43,7 @@ Java-Chat-Messenger-With-Log-Facility
 │
 ├── README.md
 └── .gitignore
+```
 
 ---
 
