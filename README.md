@@ -116,11 +116,8 @@ Server says : Hi Client
 
 ## 🔮 Possible Future Enhancements
 
--  Support for multiple clients  
--  Graphical user interface using Java Swing  
--  Timestamped message logging  
--  Encrypted communication  
--  Message history retrieval  
+- Support for multiple clients with improved messaging features  
+- Add GUI (Java Swing), secure communication, and message history tracking    
 
 ## 👨‍💻 Author
 
