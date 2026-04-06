@@ -78,17 +78,18 @@ java Client
 - The client connects to the server using a socket  
 - Messages are exchanged using **input/output streams**  
 - All messages are stored in `chat_log.txt`  
-- Communication continues until the client ends the session  
+- Communication continues until the client ends the session
+  
 ---
 
 ## 📝 Chat Log Example
-
 Example content stored in the log file:
+```
 Client : Hello Server  
 Server : Hi Client  
 Client : Testing chat communication  
 Server : Communication successful  
-
+```
 The log file maintains a record of all chat communication for future reference.
 
 ---
@@ -96,22 +97,24 @@ The log file maintains a record of all chat communication for future reference.
 ## 📸 Example Console Interaction
 
 ### 🖥️ Server
+```
 Server application is running...
 Server is waiting for the client at port number 5100
 Connection established with the client...
 Client says : Hello Server
 Enter message for client :
 Hi Client
+```
 
 ---
 
 ## 🔮 Possible Future Enhancements
 
-- 🔹 Support for multiple clients  
-- 🔹 Graphical user interface using Java Swing  
-- 🔹 Timestamped message logging  
-- 🔹 Encrypted communication  
-- 🔹 Message history retrieval  
+-  Support for multiple clients  
+-  Graphical user interface using Java Swing  
+-  Timestamped message logging  
+-  Encrypted communication  
+-  Message history retrieval  
 
 ## 👨‍💻 Author
 
