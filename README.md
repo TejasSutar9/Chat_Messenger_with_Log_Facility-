@@ -31,9 +31,8 @@ This project demonstrates core concepts like Java Networking, I/O Streams, and C
 Java-Chat-Messenger-With-Log-Facility
 │
 ├── src
-│   └── chatmessenger
-│       ├── Client.java
-│       └── Server.java
+│   ├── Client.java
+│   └── Server.java
 │
 ├── logs
 │   └── chat_log.txt
