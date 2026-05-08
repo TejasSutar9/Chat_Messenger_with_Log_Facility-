@@ -120,6 +120,6 @@ Server says : Hi Client
 
 ## 👨‍💻 Author
 
-Tejas Sutar Java Backend Developer (Fresher) Pune, Maharashtra, India
+Tejas Pradip Sutar 
 
 🔗 GitHub: https://github.com/TejasSutar9
